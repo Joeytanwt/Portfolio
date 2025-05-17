@@ -1,0 +1,9 @@
+Hello! I’m Joey, a business analytics student with a passion for transforming raw data into actionable strategies that drive growth and innovation. My journey has taken me from hands-on roles in hospitality and operations to strategic consulting, where I’ve helped businesses navigate challenges and unlock new opportunities.
+
+During my 10 years in the hospitality industry, I witnessed firsthand how data—or the lack of it—can make or break a business. From the pandemic’s upheaval to everyday operational hurdles, I saw how companies with a data-driven approach not only survived but thrived. This inspired me to begin consulting for F&B peers, using insights to optimize their strategies. At Uni-Tat Ice & Marketing, I translated this into action by launching an e-commerce platform that increased monthly revenue by 6%, while at Operation Dagger, I revitalized a World’s 50 Best Bars contender through creative branding and data-backed decision-making. Earlier, as Restaurant Manager at Native, I pivoted during COVID-19 by introducing an e-commerce arm, proving that agility and analytics go hand in hand.
+
+Now, I’m sharpening my expertise further by pursuing a degree in Global Business Management and a Specialist Diploma in Business Analytics & Applied Science, with a focus on Python, SQL, and visualization tools like Tableau and Power BI. My goal? To bridge the gap between numbers and narrative—helping businesses turn data into clarity, strategy, and results.
+
+Fluent in English and Mandarin, with conversational Spanish and Japanese, I thrive in collaborative, multicultural settings. Whether it’s optimizing operations, uncovering market trends, or crafting a compelling story from datasets, I’m driven by the belief that the right insight at the right time can change everything.
+
+Let’s connect and explore how data can elevate your business—I’d love to hear your story!
