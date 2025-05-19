@@ -1,4 +1,4 @@
-Hey there! I'm Joey – a business analytics enthusiast with a passion for turning data into real-world solutions.
+Hey there! I'm Joey – a business analytics student with a passion for turning data into real-world solutions.
 
 I'm always finding creative ways to solve problems, whether it's launching new product lines, optimizing e-commerce platforms, or uncovering insights from complex datasets. I'm adept at working with SQL, Python, and Tableau to clean, analyze, and visualize data that drives smart decisions.
 
